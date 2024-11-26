@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../TestGit"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Home-work-day12"
+	}
+}
